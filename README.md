@@ -11,5 +11,9 @@ Nesse sentido surge a necessidade de uma app que ajude o utlizador a perceber qu
 apostas tem a melhor odd para cada uma das apostas.
 A aplicação “Best Odd Advisor” pretende informar o utilizador sobre as melhores odds.
 
+Para Testa a aplicação :
+
+email : teste@teste.com
+senha: 123456789
 
 OBS: Em desenvolvimento
