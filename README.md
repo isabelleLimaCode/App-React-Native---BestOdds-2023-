@@ -18,4 +18,4 @@ Para Testa a aplicação :
 email : teste@teste.com
 senha: 123456789
 
-OBS: Em desenvolvimento
+
